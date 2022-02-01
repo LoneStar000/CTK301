@@ -1,0 +1,26 @@
+#newcolor {
+  color: blue;
+}
+
+.newc {
+  color: pink;
+}
+p {
+  color: #F93837;
+  background-color: #565656;
+}
+
+h2 {
+  color: #FC3B3B;
+  background-color: #565656;
+}
+
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: yellow;
+}
