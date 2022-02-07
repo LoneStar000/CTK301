@@ -1,0 +1,65 @@
+#newcolor {
+  color: blue;
+}
+
+.newc {
+  color: pink;
+}
+p {
+  color: #F93837;
+  background-color: #565656;
+}
+h1 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h2 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h3 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h4 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: yellow;
+}
+
+.customtext{
+  font-family: sans-serif;
+}
+
+.textcenter{
+  text-align: center;
+}
+
+.textjustify{
+  text-align: justify;
+}
+
+.boxmodel{
+  border: 5px solid #000000;
+  padding: 20px 20px 20px 20px;
+}
+
+body{
+  background-image: url(mario.png);
+}
