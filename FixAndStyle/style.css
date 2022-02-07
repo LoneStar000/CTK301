@@ -1,0 +1,48 @@
+a:link{
+  color: green;
+}
+
+a:hover{
+  color: red;
+}
+
+#background{
+  background-color: lightblue;
+}
+
+.newColor{
+  color: white;
+}
+
+#colorBlue{
+  color:blue;
+}
+
+#colorOrange{
+  color: orange;
+}
+
+#inferno{
+  background-color: yellow;
+}
+
+u {
+  text-decoration: none;
+}
+
+#colorRed{
+  color: red;
+}
+
+h4{
+  color: yellow;
+  background-color: black;
+}
+
+#greenBackground{
+  background-color: green;
+}
+
+h5{
+  color: red;
+}
